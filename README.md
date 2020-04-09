@@ -16,6 +16,7 @@ Bu [videoyu](https://serc.carleton.edu/details/files/34960.html) seyrederek yay 
 
 ## NOT
 Video üzerindeki *FPS* (Frame Per Second) saniyedeki çerçeve sayısını ifade etmektedir. Videoyu durduğunuz iki  çerçeve arasındaki zamanı bu bilgiyi kullanarak bulabilirsiniz.
+> Gülnihal Kelkit
 
 
 
